@@ -1,1 +1,1 @@
-<img src="Wire Frame Output.png"></img>
+<img src="Web Wire Frame/Images/Wire Frame Output.png"></img>
